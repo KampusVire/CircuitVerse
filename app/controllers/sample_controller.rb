@@ -2,7 +2,7 @@
 
 class SampleController < ApplicationController
   def index
-    @cores = [{ name: "Aayush Gupta", img: "https://avatars.githubusercontent.com/u/47032027?v=4", link: "https://github.com/aayush-05" },
+    @cores = [{ name: "Aaysh Gupta", img: "https://avatars.githubusercontent.com/u/47032027?v=4", link: "https://github.com/aayush-05" },
               { name: "Samiran Konwar",
                 img: "https://avatars.githubusercontent.com/u/42478217?v=4", link: "https://github.com/abstrekt" },
               { name: "Aboobacker MK",
